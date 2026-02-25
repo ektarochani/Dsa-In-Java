@@ -10,7 +10,7 @@ public class ForthHoloRectangle {
                     System.out.print("   ");
                 }
             }
-            System.out.println("");
+            System.out.println(" ");
         }
     }
 }

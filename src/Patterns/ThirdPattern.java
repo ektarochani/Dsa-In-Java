@@ -9,7 +9,7 @@ public class ThirdPattern {
             for (int j=1;j<=4;j++){
                 System.out.print(" * ");
             }
-            System.out.println("");
+            System.out.println(" ");
         }
     }
 }
