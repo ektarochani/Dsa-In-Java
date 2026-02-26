@@ -1,3 +1,4 @@
+// this contains half pyramid for both stars and no's and also holo rectangle..!!!
 package Patterns;
 
 public class FifthHalfPyramid {
